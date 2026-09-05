@@ -1,0 +1,9 @@
+{
+  "appId": "com.shahinnajafi.app",
+  "appName": "Shahin Najafi",
+  "webDir": "www",
+  "server": {
+    "url": "https://web-production-27422.up.railway.app",
+    "cleartext": false
+  }
+}
